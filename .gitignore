@@ -1,0 +1,9 @@
+login.py
+users.db
+__pycache__
+*.db-journal
+.idea
+/*.png
+logs/
+/utils/loot.db
+/loot/debug/
